@@ -18,7 +18,7 @@ main{
     max-width:  500px;
     padding: 16 px;
     margin: 16 px;
-    backdrop-filter: blur(9px);
+    backdrop-filter: blur(20px);
     box-shadow: 0 0 50px 0 rgba(255, 255, 255, 0.5);
     border-radius: 30px;
     display: flex;
