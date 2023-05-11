@@ -67,12 +67,16 @@ ul{
 .skill{
     background-color: rgba(160, 62, 6, 0.842);
     padding: 4px 16px;
-    border-radius: 16px;
+    border-radius: 8px;
 }
 
 a {
-    font-size: 22px;
-    color: rgb(207, 206, 206);
+    font-size: 25px;
+    color: rgb(179, 172, 172);
+}
+a:hover{
+    font-size:25px;
+    color:rgb(255, 255, 255);
 }
 /*
 .padre{
